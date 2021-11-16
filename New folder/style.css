@@ -1,0 +1,29 @@
+.addpadding {
+  padding: 1em;
+}
+.nopaddingL {
+  padding-left: 0 !important;
+}
+.vueblue {
+  color: #41b883;
+}
+.leftpadding {
+  padding-left: 1em;
+}
+
+.congrats {
+  color: #41b883;
+}
+
+[class*="browser"] {
+  cursor: pointer;
+}
+
+.subtitle {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.bold {
+  font-weight: bolder;
+}
